@@ -9,16 +9,5 @@
         android:enabled="true"
         android:icon="@drawable/avorite_border"
         android:title="Like" />
-    <item
-        android:id="@+id/page_2"
-        android:enabled="true"
-        android:icon="@drawable/whatshot"
-        android:title="exdf" />
-    <item
-        android:id="@+id/page_3"
-        android:enabled="true"
-        android:icon="@drawable/trophy"
-        android:title="ssfsf" />
-
 
 </menu>
