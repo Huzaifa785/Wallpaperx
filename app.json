@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wallpaperx",
+    "slug": "wallpaperx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wallpaperx"
+}
